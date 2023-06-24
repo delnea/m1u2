@@ -1,7 +1,5 @@
 - Yogur
 - Galletitas
 - Cereales
-- Queso
-- Jamon
 - Manzana
 - Durazno
